@@ -1,4 +1,4 @@
-# Olá, eu sou Edilson junior 🚀 
+# Olá, eu sou Edilson junior 🚀         <img src=""
 
 Eu sou estudante de analise de sistemas e atualmente estou na faculdade, gosto de assuntos relacionados a tecnologias👨‍💻
 
