@@ -1,7 +1,6 @@
-# Olá, eu sou Edilson Junior 🚀     <img src="https://github.com/edilsonjr7/edilsonjr7/assets/168863307/61a22ca7-d6b6-4a4f-a859-0be6c3a21651" alt="Gif Satoru Gojo" height="100" width="200"/>
+# Olá, eu sou Edilson Junior 🚀  
 
-
-Eu sou estudante de Análise de Sistemas e atualmente estou na faculdade. Gosto de assuntos relacionados a tecnologias👨‍💻
+Eu sou estudante de Análise de Sistemas e atualmente estou na faculdade. Gosto de assuntos relacionados a tecnologias👨‍💻  
 
 ## Conecte-se Comigo
 
@@ -21,6 +20,7 @@ Eu sou estudante de Análise de Sistemas e atualmente estou na faculdade. Gosto 
 - Organização
 - Perfil Colaborador
 
-
+<div  align="right"> <img src="https://github.com/edilsonjr7/edilsonjr7/assets/168863307/61a22ca7-d6b6-4a4f-a859-0be6c3a21651" alt="Gif Satoru Gojo" height="100" width="200"/>
+</div> 
 
 
