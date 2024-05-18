@@ -1,5 +1,4 @@
-# Olá, eu sou Edilson Junior 🚀
-
+# Olá, eu sou Edilson Junior 🚀     <img src="https://github.com/edilsonjr7/edilsonjr7/assets/168863307/61a22ca7-d6b6-4a4f-a859-0be6c3a21651" alt="Gif Satoru Gojo" height="100" width="200"/>
 
 
 Eu sou estudante de Análise de Sistemas e atualmente estou na faculdade. Gosto de assuntos relacionados a tecnologias👨‍💻
@@ -15,12 +14,13 @@ Eu sou estudante de Análise de Sistemas e atualmente estou na faculdade. Gosto 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="40"/>
 
-## Habilidades
+## 🧠 Habilidades
 
 - Resiliente
 - Controle Emocional
 - Organização
 - Perfil Colaborador
+
 
 
 
