@@ -1,6 +1,6 @@
 # Olá, eu sou Edilson Junior 🚀
 
-![Demonstração do projeto](assets/gif-goku.webp)
+
 
 Eu sou estudante de Análise de Sistemas e atualmente estou na faculdade. Gosto de assuntos relacionados a tecnologias👨‍💻
 
