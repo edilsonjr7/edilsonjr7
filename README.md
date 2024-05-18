@@ -1,4 +1,5 @@
-# Olá, eu sou Edilson junior 🚀         <img src=""
+# Olá, eu sou Edilson junior 🚀         ![Demonstração do projeto](assets/gif-goku)
+
 
 Eu sou estudante de analise de sistemas e atualmente estou na faculdade, gosto de assuntos relacionados a tecnologias👨‍💻
 
