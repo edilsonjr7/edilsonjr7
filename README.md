@@ -1,6 +1,6 @@
 # Olá, eu sou Edilson Junior 🚀  
 
-Eu sou estudante de Análise de Sistemas e atualmente estou na faculdade. Gosto de assuntos relacionados a tecnologias👨‍💻  
+Eu sou estudante de Análise de Sistemas e atualmente estou na faculdade. Gosto de assuntos relacionados a tecnologias👨‍💻
 
 ## Conecte-se Comigo
 
