@@ -1,16 +1,19 @@
-### Hi there 👋
+# Olá, eu sou Edilson junior 🚀 
 
-<!--
-**edilsonjr7/edilsonjr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou estudante de analise de sistemas e atualmente estou na faculdade, gosto de assuntos relacionados a tecnologias👨‍💻
 
-Here are some ideas to get you started:
+# Conecte-se Comigo
+[![linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/edilson-de-souza-319702233/) [![Instagram](https://img.shields.io/badge/instagram-FF00FF?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edilsonjr7/?next=%2F) [![GitHub](https://img.shields.io/badge/github-FF0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edilsonjr7)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠 Habilidades
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height=30 />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  height=30 />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  height=30/>
+          
+  
+          
+          
+          
+          
+  PHP and mySQL.
+
+## Soft Skill
