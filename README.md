@@ -19,6 +19,7 @@ Eu sou de ADS. Gosto de assuntos relacionados a tecnologias👨‍💻
 - Controle Emocional
 - Organização
 - Perfil Colaborador
+- Otimo trabalho em equipe
 
 <div  align="right"> <img src="https://github.com/edilsonjr7/edilsonjr7/assets/168863307/61a22ca7-d6b6-4a4f-a859-0be6c3a21651" alt="Gif Satoru Gojo" height="100" width="200"/>
 </div> 
