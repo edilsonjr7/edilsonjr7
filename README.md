@@ -1,6 +1,6 @@
 # Olá, eu sou Edilson Junior 🚀  
 
-Eu sou estudante . Gosto de assuntos relacionados a tecnologias👨‍💻
+Eu sou de ADS. Gosto de assuntos relacionados a tecnologias👨‍💻
 
 ## Conecte-se Comigo
 
