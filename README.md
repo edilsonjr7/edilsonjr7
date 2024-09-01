@@ -4,7 +4,8 @@ Eu sou de ADS. Gosto de assuntos relacionados a tecnologias👨‍💻
 
 ## Conecte-se Comigo
 
-[![LinkedIn]([[https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=blue)]](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/edilson-de-souza-319702233/](https://www.linkedin.com/in/edilson-junior-319702233/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edilson-junior-319702233/)
+
 [![Instagram](https://img.shields.io/badge/instagram-FF00FF?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edilsonjr7/?next=%2F)
 [![GitHub](https://img.shields.io/badge/github-00FF00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edilsonjr7)
 [![Gmail](https://img.shields.io/badge/gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edilsondesouzalimajunior10@gmail.com)
