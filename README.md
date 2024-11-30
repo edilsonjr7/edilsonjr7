@@ -1,11 +1,11 @@
 # Olá, eu sou Edilson Junior 🚀  
 
-Eu sou de ADS. Gosto de assuntos relacionados a tecnologias👨‍💻
+Sou estudante de Analise e Desenvolvimento de Sistemas. Gosto de assuntos relacionados a tecnologias👨‍💻
 
 ## Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edilson-junior-319702233/)
-[![Instagram](https://img.shields.io/badge/Instagram-FF00FF?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edilsonjr7/)
+[![Instagram]([https://img.shields.io/badge/Instagram-FF00FF?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edilsonjr7/](https://www.instagram.com/junioredilson310/?next=%2F))
 [![GitHub](https://img.shields.io/badge/GitHub-00FF00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edilsonjr7)
 [![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edilsondesouzalimajunior10@gmail.com)
 
