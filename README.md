@@ -8,11 +8,11 @@ Sou estudante de Analise e Desenvolvimento de Sistemas. Gosto de assuntos relaci
 [![GitHub](https://img.shields.io/badge/GitHub-00FF00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edilsonjr7)
 [![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edilsondesouzalimajunior10@gmail.com)
 
-## 🛠 Conhecimentos
+## 🛠 Hard Skills
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="40"/>
 
-## 🧠 Habilidades
+## 🧠 Soft Skills
 
 - Resiliente
 - Controle Emocional
