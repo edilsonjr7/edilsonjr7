@@ -3,7 +3,7 @@
 Sou estudante de Analise e Desenvolvimento de Sistemas. Gosto de assuntos relacionados a tecnologias👨‍💻
 
 
-<div  align="right"> <img src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif" alt="Gif Satoru Gojo" height="500" width="800"/>
+<div  align="right"> <img src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif" alt="Gif Satoru Gojo" height="500" width="1000"/>
 </div> 
 
 
