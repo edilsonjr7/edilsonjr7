@@ -11,7 +11,6 @@ Sou estudante de Analise e Desenvolvimento de Sistemas. Gosto de assuntos relaci
 ## Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edilson-junior-319702233/)
-[![GitHub](https://img.shields.io/badge/GitHub-00FF00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edilsonjr7)
 [![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edilsondesouzalimajunior10@gmail.com)
 
 ## 🛠 Hard Skills
