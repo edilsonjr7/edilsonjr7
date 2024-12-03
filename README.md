@@ -1,11 +1,12 @@
 # Olá, eu sou Edilson Junior 🚀  
 
-Sou estudante de Analise e Desenvolvimento de Sistemas. Gosto de assuntos relacionados a tecnologias👨‍💻
-
- <br>
 
 <div  align="right"> <img src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif" alt="Gif Satoru Gojo" height="400" width="800"/>
 </div> 
+
+ <br>
+
+Sou estudante de Analise e Desenvolvimento de Sistemas. Gosto de assuntos relacionados a tecnologias👨‍💻
 
 
 ## Conecte-se Comigo
