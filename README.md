@@ -1,7 +1,7 @@
 # Olá, eu sou Edilson Junior 🚀  
 
 
-<div  align="right"> <img src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif" alt="Gif Satoru Gojo" height="400" width="800"/>
+<div  align="right"> <img src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif" alt="Gif Satoru Gojo" height="300" width="800"/>
 </div> 
 
  <br>
