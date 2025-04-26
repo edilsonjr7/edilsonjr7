@@ -6,7 +6,7 @@
 
  <br>
 
-Sou estudante de Analise e Desenvolvimento de Sistemas. Gosto de assuntos relacionados a tecnologias👨‍💻
+Me chamo Edilson Junior, tenho 21 anos. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia e Inovação Senac
 
 
 ## Conecte-se Comigo
