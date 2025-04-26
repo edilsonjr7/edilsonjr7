@@ -12,7 +12,7 @@ Me chamo Edilson Junior, tenho 21 anos. Atualmente estou cursando Análise e Des
 ## Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edilson-junior-319702233/)
-[![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edilsondesouzalimajunior10@gmail.com)
+
 
 ## 🛠Linguagens e Tecnologias
 
