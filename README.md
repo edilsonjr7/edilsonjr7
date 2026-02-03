@@ -31,7 +31,7 @@
 ## 🛠 Minhas Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,git,github,docker,idea,vscode,linux,postgres,mysql,html,css,js,ts,react,nodejs,python&perline=8" alt="Skills Icons"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,git,github,docker,vscode,postgres,mysql&perline=8" alt="Skills Icons"/>
 </div>
 
 <br>
