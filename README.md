@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif" alt="Satoru Gojo vibe" width="600"/>
-</div>
-
-<h1 align="center">Olá, eu sou Edilson Junior 🚀</h1>
+<h1 align="center">Hi, what's up 🖐️</h1>
 
 <div align="center">
   <img src="https://img.shields.io/badge/21%20anos-Developer-blue?style=for-the-badge&logoColor=white" alt="Idade"/>
@@ -11,11 +7,9 @@
 
 <br>
 
-<p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Senac.<br>
-  Apaixonado por backend, clean code e soluções escaláveis.<br>
-  <strong>"Foco total, sem limites."</strong> 😎
-</p>
+Student in Systems Analysis and Development at Senac College.<br>
+Passionate about backend, clean code, and scalable solutions.<br>
+<strong>"Total focus, no limits."</strong> 😎
 
 <br>
 
