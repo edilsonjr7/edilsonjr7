@@ -14,7 +14,7 @@ My name is Edilson Junior and I'm a Backend Developer Student, from Brazil.
 
 ## Contact
 
-<div align="right">
+<div align="left">
   <a href="https://www.linkedin.com/in/edilson-junior-319702233/">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -25,7 +25,7 @@ My name is Edilson Junior and I'm a Backend Developer Student, from Brazil.
 
 ## I code with
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="70" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="70" alt="Spring"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="70" alt="Git"/>
