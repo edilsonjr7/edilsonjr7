@@ -1,37 +1,56 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif" alt="Gif Satoru Gojo" width="500"/>
+  <img src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif" alt="Satoru Gojo vibe" width="600"/>
 </div>
 
 <h1 align="center">Olá, eu sou Edilson Junior 🚀</h1>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/21%20anos-Developer-blue?style=for-the-badge&logoColor=white" alt="Idade"/>
+  <img src="https://img.shields.io/badge/ADS-Senac-FF6B6B?style=for-the-badge&logoColor=white" alt="Curso"/>
+</div>
+
+<br>
+
 <p align="center">
-  Me chamo Edilson Junior, tenho 21 anos.<br>
-  Atualmente cursando Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia e Inovação Senac.
+  Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Senac.<br>
+  Apaixonado por backend, clean code e soluções escaláveis.<br>
+  <strong>"Foco total, sem limites."</strong> 😎
 </p>
 
 <br>
 
 <div align="center">
-  ## Conecte-se Comigo
+  ## Conecte-se comigo
   <a href="https://www.linkedin.com/in/edilson-junior-319702233/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
 
-<br>
+<br><br>
 
-## 🛠 Linguagens e Tecnologias
+## 🛠 Minhas Skills
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="60" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" height="60" alt="Spring"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="60" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="60" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="60" alt="Docker"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,git,github,docker,idea,vscode,linux,postgres,mysql,html,css,js,ts,react,nodejs,python&perline=8" alt="Skills Icons"/>
+</div>
+
+<br>
+
+<div align="center">
+  ## Tecnologias que uso no dia a dia / estudos
+  Java • Spring Boot • Git • Docker • Bancos de dados (PostgreSQL, MySQL) • HTML/CSS/JS • Python (em breve mais!)
+</div>
+
+<br><br>
+
+<!-- Se quiser adicionar stats bonitos (opcional, mas fica pro) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=edilsonjr7&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edilsonjr7&theme=dracula&hide_border=true" alt="Streak"/>
 </div>
 
 <br>
 
 <div align="right">
-  <img src="https://github.com/edilsonjr7/edilsonjr7/assets/168863307/61a22ca7-d6b6-4a4f-a859-0be6c3a21651" alt="Gif Satoru Gojo" width="180"/>
+  <img src="https://github.com/edilsonjr7/edilsonjr7/assets/168863307/61a22ca7-d6b6-4a4f-a859-0be6c3a21651" alt="Gojo small" width="220"/>
 </div>
