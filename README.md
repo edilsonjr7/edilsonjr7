@@ -38,16 +38,12 @@
 
 <div align="center">
   ## Tecnologias que uso no dia a dia / estudos
-  Java • Spring Boot • Git • Docker • Bancos de dados (PostgreSQL, MySQL) • HTML/CSS/JS • Python (em breve mais!)
+  Java • Spring Boot • Git • Docker • Bancos de dados (PostgreSQL, MySQL)
 </div>
 
 <br><br>
 
-<!-- Se quiser adicionar stats bonitos (opcional, mas fica pro) -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edilsonjr7&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edilsonjr7&theme=dracula&hide_border=true" alt="Streak"/>
-</div>
+
 
 <br>
 
