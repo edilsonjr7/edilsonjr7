@@ -1,4 +1,4 @@
-# Hey 👋 What's up?
+# Hi👋 What's up?
 
 My name is Edilson Junior and I'm a Backend Developer Student, from Brazil.
 
